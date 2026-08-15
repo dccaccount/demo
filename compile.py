@@ -1,1 +1,1 @@
-printf("third developer compile")
+print("third developer compile")
