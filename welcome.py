@@ -1,1 +1,1 @@
-printf("Learning python");
+print("Learning python");
